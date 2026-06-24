@@ -44,4 +44,4 @@ This app also adds a slick cyan cyber-neon UI, and cool background music (made b
 * All code and development by Null
 * Background music made by Posifurg
 
-... that's it
+> ... that's it
