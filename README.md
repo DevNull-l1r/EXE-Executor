@@ -1,5 +1,5 @@
 # EXE Executor
-### by Null
+## by Null
 
 ## What the heck is this?
 EXE Executor is a Linux app that allows you to run Windows Applications (.exe files) on, well, Linux
@@ -34,8 +34,14 @@ This app also adds a slick cyan cyber-neon UI, and cool background music (made b
 * GStreamer Media Core + Plugin Libraries
 
 **To compile, in your terminal, run:**
-`bash`
-`mkdir build`
-`cd build`
-`cmake ..`
+`bash`,
+`mkdir build`,
+`cd build`,
+`cmake ..`, and finally, 
 `make && ./exe-executor`
+
+### Credits:
+* All code and development by Null
+* Background music made by Posifurg
+
+... that's it
