@@ -14,7 +14,7 @@ add_executable(nectar
     mainwindow.cpp
 )
 
-target_link_libraries(exe-executor PRIVATE 
+target_link_libraries(nectar PRIVATE 
     Qt6::Widgets
     Qt6::Multimedia
     X11
