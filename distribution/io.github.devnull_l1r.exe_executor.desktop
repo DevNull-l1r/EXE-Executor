@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=EXE Executor
+Comment=Run EXE files on Linux with ease
+Exec=exe-executor
+Icon=io.github.devnull_l1r.exe_executor
+Terminal=false
+Categories=Utility;
