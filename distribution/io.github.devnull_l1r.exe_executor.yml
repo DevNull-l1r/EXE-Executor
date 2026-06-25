@@ -9,5 +9,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/DevNull-l1r/EXE-Executor.git
-        commit: 53877d9de7284a7f587dd3b434f2a2e174b198d1
+        commit: 96df273fb48a52f3d475825fabd877efa2d45d1d
         
