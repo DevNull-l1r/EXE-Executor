@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.devnull_l1r.exe_executor</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license> <name>EXE Executor</name>
+  <summary>Manage and execute files seamlessly</summary>
+
+  <description>
+    <p>
+        EXE Executor is an app that allows you to run Windows Applications (.exe) using Winetricks, adding a slick UI and a easier way to see real-time diagnostic and no more freezing.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">io.github.devnull_l1r.exe_executor.desktop</launchable>
+
+  <url type="homepage">https://github.com/DevNull-l1r/EXE-Executor</url>
+
+  <provides>
+    <binary>exe-executor</binary>
+  </provides>
+</component>
