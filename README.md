@@ -1,8 +1,8 @@
-# EXE Executor
+# Nectar
 ## by Null
 
 ## What the heck is this?
-* EXE Executor is a Linux app that allows you to run Windows Applications (.exe files) on, well, Linux
+* Nectar is a Linux app that allows you to run Windows Applications (.exe files) on, well, Linux
 * This app acts as a dashboard layer for Wine, while adding more features and performance tweaks
 
 ## What exactly does this app add to Wine?
@@ -35,12 +35,12 @@ This app also adds a slick cyan cyber-neon UI, and cool background music (made b
 
 **To compile, in your terminal, run:**
 `bash`,
-`git clone https://github.com/DevNull-l1r/EXE-Executor`
-`cd EXE-Executor`
+`git clone https://github.com/DevNull-l1r/Nectar`
+`cd Nectar`
 `mkdir build`,
 `cd build`,
 `cmake ..`, and finally, 
-`make && ./exe-executor`
+`make && ./nectar`
 
 ### Credits:
 * All code and development by Null
