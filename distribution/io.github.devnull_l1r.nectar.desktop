@@ -2,7 +2,7 @@
 Type=Application
 Name=Nectar
 Comment=Run EXE files on Linux with ease
-Exec=exe-executor
+Exec=nectar
 Icon=io.github.devnull_l1r.nectar
 Terminal=false
 Categories=Utility;
