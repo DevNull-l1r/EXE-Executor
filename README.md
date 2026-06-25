@@ -35,6 +35,8 @@ This app also adds a slick cyan cyber-neon UI, and cool background music (made b
 
 **To compile, in your terminal, run:**
 `bash`,
+`git clone https://github.com/DevNull-l1r/EXE-Executor`
+`cd EXE-Executor`
 `mkdir build`,
 `cd build`,
 `cmake ..`, and finally, 
