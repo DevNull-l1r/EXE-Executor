@@ -1,13 +1,13 @@
-id: io.github.devnull_l1r.exe_executor
+id: io.github.devnull_l1r.nectar
 runtime: org.kde.Platform
 runtime-version: '6.6'
 sdk: org.kde.Sdk
-command: exe-executor
+command: nectar
 modules:
-  - name: exe-executor
+  - name: nectar
     buildsystem: cmake
     sources:
       - type: git
-        url: https://github.com/DevNull-l1r/EXE-Executor.git
+        url: https://github.com/DevNull-l1r/Nectar.git
         commit: 96df273fb48a52f3d475825fabd877efa2d45d1d
         
